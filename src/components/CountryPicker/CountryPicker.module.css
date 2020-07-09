@@ -1,0 +1,11 @@
+.formControl {
+  width: 40%;
+  background-color: whitesmoke;
+  border-radius: 8px;
+  margin-bottom: 30px !important;
+}
+
+option {
+  color: darkblue;
+  font-size: large;
+}
